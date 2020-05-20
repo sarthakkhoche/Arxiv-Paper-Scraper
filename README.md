@@ -11,7 +11,7 @@ First, create a folder `papers` in the same directory as the script. Then run th
 Then, enter the keyword for that subdomain[Refer Below]. Once the script returns "Done!", check the folder for the most recent 25 papers in that subdomain.
 
 ## Keywords for Different Subdomains in Computer Science
-| Domain        | Keyword           |
+| SubDomain        | Keyword           |
 | ------------- |:-------------:|
 | Computer Vision | cv |
 | Cryptography | cry |
