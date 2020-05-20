@@ -15,5 +15,6 @@ Then, enter the keyword for that subdomain[Refer Below]. Once the script returns
 | ------------- |:-------------:|
 | Computer Vision | cv |
 | Cryptography | cry |
-| Machine Learning | ml |
 | Data Structures and Algorithms | dsa |
+| Machine Learning | ml |
+
