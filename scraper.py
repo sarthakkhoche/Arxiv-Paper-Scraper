@@ -24,7 +24,15 @@ def save_pdf(url, filename):
     with open(filename, 'wb') as handler:
         handler.write(paper_data)
 
-dic = {'cv' : "https://arxiv.org/list/cs.CV/recent", 'ml' : "https://arxiv.org/list/cs.LG/recent", 'cry' : "https://arxiv.org/list/cs.CR/recent", 'dsa' : "https://arxiv.org/list/cs.DS/recent"}
+dic = {'cv' : "https://arxiv.org/list/cs.CV/recent",
+       'ml' : "https://arxiv.org/list/cs.LG/recent",
+       'cry' : "https://arxiv.org/list/cs.CR/recent",
+       'dsa' : "https://arxiv.org/list/cs.DS/recent",
+       'ai' : "https://arxiv.org/list/cs.AI/recent",
+       'db' : "https://arxiv.org/list/cs.DB/recent",
+       'os' : "https://arxiv.org/list/cs.OS/recent",
+       'pl' : "https://arxiv.org/list/cs.PL/recent",
+       'sr' : "https://arxiv.org/list/cs.SD/recent"}
 
 inp = input()
 get_data(dic[inp], 0)
