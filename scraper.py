@@ -32,7 +32,11 @@ dic = {'cv' : "https://arxiv.org/list/cs.CV/recent",
        'db' : "https://arxiv.org/list/cs.DB/recent",
        'os' : "https://arxiv.org/list/cs.OS/recent",
        'pl' : "https://arxiv.org/list/cs.PL/recent",
-       'sr' : "https://arxiv.org/list/cs.SD/recent"}
+       'sr' : "https://arxiv.org/list/cs.SD/recent",
+       'nlp' : "https://arxiv.org/list/cs.CL/recent",
+       'mas' : "https://arxiv.org/list/cs.MA/recent",
+       'se' : "https://arxiv.org/list/cs.SE/recent",
+       'at' : "https://arxiv.org/list/cs.FL/recent"}
 
 inp = input()
 get_data(dic[inp], 0)

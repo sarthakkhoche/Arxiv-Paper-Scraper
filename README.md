@@ -14,11 +14,15 @@ Then, enter the keyword for that subdomain[Refer Below]. Once the script returns
 | SubDomain        | Keyword           |
 | ------------- |:-------------:|
 | Artificial Intelligence | ai |
+| Automata Theory | at |
 | Computer Vision | cv |
 | Cryptography | cry |
 | Database Systems | db |
 | Data Structures and Algorithms | dsa |
 | Machine Learning | ml |
+| Multi Agent Systems | mas |
+| Natural Language Processing | nlp |
 | Operating System | os |
 | Programming Languages | pl |
+| Software Engineering | se |
 | Speech Recognition | sr |
